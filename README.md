@@ -2,7 +2,7 @@
 Repository for performance and memory profiling.
 
 ## Performance
-You can use the decorator (profile_decorator.py) and watch the results with the viewer.
+You can use the decorator (profile_decorator.py) and watch the results with the viewer (cprofil_viewer.py).
 
 ## Memory
 Memory monitoring is not as easy in Python as in C/C++. 
