@@ -1,4 +1,4 @@
-# profil
+# profile
 Repository for performance and memory profiling.
 
 ## Performance
